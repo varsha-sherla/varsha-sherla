@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Varsha Sherla 👋</h1>
 
 <p align="center">
-  M.Sc. AI Student @ BTU Cottbus · ML Engineer · Computer Vision · NLP
+  AI/ML Engineer · M.Sc. Artificial Intelligence · BTU Cottbus-Senftenberg, Germany
 </p>
 
 <p align="center">
@@ -14,12 +14,13 @@
 
 ### About me
 
-- 🎓 M.Sc. Artificial Intelligence student at **BTU Cottbus-Senftenberg**, Germany
-- 💼 Former **ML Intern @ Tech Mahindra** — built real-time monitoring pipelines and automated dashboards
-- 🔬 Research experience in **NLP** (Telugu LLM) and **Generative AI** (IBM SkillsBuild)
-- 🏆 **Smart India Hackathon 2023** participant — autonomous object detection system
+- 🎓 M.Sc. Artificial Intelligence @ **BTU Cottbus-Senftenberg**, Germany
+- 🏢 Former **ML Intern @ Tech Mahindra** — end-to-end fraud detection pipeline with real-time dashboards
+- 🔬 NLP Research @ **Swecha Telangana** — contributed to building a Telugu Large Language Model
+- 🤖 Generative AI Intern @ **IBM SkillsBuild** — foundation models, prompt engineering, responsible AI
+- 🏆 **Smart India Hackathon 2023** — autonomous lake cleaning robot with YOLOv8 + embedded AI
 - 🌍 Based in Cottbus, Germany · Open to remote and relocation
-- 💡 Actively seeking **internship / full-time roles** in ML & Data Science
+- 💼 Actively seeking **internship / full-time roles** in ML & Data Science
 
 ---
 
@@ -39,25 +40,26 @@
 
 ---
 
-### Featured projects
+### Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [🕵️ Deepfake Detection](https://github.com/varsha-sherla/Deepfake-Detection) | Detects AI-generated faces at **99.94% confidence** with Grad-CAM heatmaps + Django web app | TensorFlow, Xception, OpenCV, Django |
-| [🚨 AI Fraud Detection Pipeline](https://github.com/varsha-sherla) | Real-time fraud detection with anomaly flagging, auto-alerts and live dashboard reporting | Python, XGBoost, SHAP, OpenAI API |
-| [🚗 Vehicle Registration Detection](https://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection) | Real-time license plate detection & multi-object tracking from moving vehicles | Python, YOLOv8, OpenCV, SORT |
-| [🎵 Lyrics Generator (RNN)](https://github.com/varsha-sherla/Lyrics-Generator-Model-Using-Recurrent-Neural-Networks) | Generative text model trained on song lyrics using LSTMs | Python, Keras, LSTM |
-| [🖼️ Scaling GANs for Text-to-Image](https://github.com/varsha-sherla/Scaling-up-GANs-for-Text-to-Image-Synthesis) | Research on scaling GAN architectures for text-to-image synthesis | PyTorch, GANs |
+| # | Project | What it does | Stack |
+|---|---|---|---|
+| 01 | [🕵️ Deepfake Detection](https://github.com/varsha-sherla/Deepfake-Detection) | Detects AI-generated faces at **99.94% confidence** using Xception + Grad-CAM heatmaps. Deployed as a Django web app | TensorFlow, Xception, OpenCV, Django |
+| 02 | [🚗 Vehicle Plate Detection](https://github.com/varsha-sherla/Moving-Vehicle-Registration-Number-Detection) | Real-time license plate detection, OCR text extraction and multi-object tracking from live video | YOLOv8, EasyOCR, OpenCV, SORT |
+| 03 | [🎵 Lyrics Generator (LSTM)](https://github.com/varsha-sherla/Lyrics-Generator-Model-Using-Recurrent-Neural-Networks) | Generative text model using LSTM networks — demonstrates core LLM principles (autoregressive prediction, sequence modeling) | TensorFlow, Keras, NLTK |
+| 04 | [🚨 AI Fraud Detection Pipeline](https://github.com/varsha-sherla) | End-to-end fraud detection with SHAP explainability, automated alerting and OpenAI-powered real-time dashboard *(Tech Mahindra internship)* | XGBoost, SHAP, OpenAI API |
+| 05 | [🤖 SPALC – Autonomous Lake Cleaner](https://github.com/varsha-sherla) | Smart India Hackathon 2023 — solar-powered autonomous robot that detects and collects lake debris using YOLOv8 | YOLOv8, Embedded AI, OpenCV |
+| 06 | [🖼️ Scaling GANs for Text-to-Image](https://github.com/varsha-sherla/Scaling-up-GANs-for-Text-to-Image-Synthesis) | Research on scaling GAN architectures for text-to-image synthesis | PyTorch, GANs |
 
 ---
 
 ### Experience
 
 🏢 **ML Intern — Tech Mahindra** *(Apr–Jun 2025)*
-Built an end-to-end ML pipeline for real-time application monitoring (AppVital) with load forecasting, anomaly detection, and automated dashboards for non-technical stakeholders.
+Built an end-to-end ML pipeline for real-time application monitoring (AppVital) — load forecasting, anomaly detection, SHAP explainability, and automated dashboards for non-technical stakeholders.
 
 🔬 **NLP Research Intern — Swecha Telangana** *(May–Jun 2024)*
-Contributed to building a Telugu Large Language Model (LLM) — data curation, corpus management, and TTS model development for a low-resource language.
+Contributed to building a Telugu Large Language Model — data curation, corpus management, and TTS model development for a low-resource language.
 
 🤖 **Generative AI Intern — CSRBOX / IBM SkillsBuild** *(Feb–Mar 2024)*
 Hands-on experience with foundation models, prompt engineering, and responsible AI practices.
@@ -68,8 +70,16 @@ Hands-on experience with foundation models, prompt engineering, and responsible 
 
 - 📜 Prompt Engineering & Programming with OpenAI — *Columbia+, 2025*
 - 📜 Mastering Data with Machine Learning — *IBM SkillsBuild, 2024*
-- 📜 Deep Learning — *IIT Ropar / NPTEL, 2023*
 - 📜 Generative AI Micro-Internship — *IBM SkillsBuild, 2024*
+- 📜 Deep Learning — *IIT Ropar / NPTEL, 2023*
+- 📜 Joy of Computing using Python — *IIT Ropar / NPTEL, 2023*
+- 📜 Privacy & Security in Online Social Media — *IIIT Hyderabad / NPTEL*
+
+---
+
+### Languages
+
+🇬🇧 English — C1 &nbsp;|&nbsp; 🇩🇪 German — A2 (actively improving) &nbsp;|&nbsp; Telugu & Hindi — Native
 
 ---
 
