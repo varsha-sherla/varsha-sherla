@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/varsha-s-47103a250">LinkedIn</a> •
   <a href="mailto:varshasherla06@gmail.com">Email</a> •
-  <a href="https://varsha-sherla.github.io/Varsha-Portfolio/">Portfolio</a>
-</p>
+  <a href="https://varsha-sherla.github.io/Varsha-Portfolio/">Portfolio</a></p>
 
 ---
 
