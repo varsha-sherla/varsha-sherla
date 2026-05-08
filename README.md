@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Varsha Sherla 👋</h1>
 
-<p align="center">
+<p align="center"> 
   AI/ML Engineer · M.Sc. Artificial Intelligence · BTU Cottbus-Senftenberg, Germany
 </p>
 
